@@ -1,7 +1,7 @@
 #Cuadro comparativo
 #####Pseudocodigo, Diagramas de flujo, NSD y Chapin, C++
 
-x  | Pro           |Contras
+  | Pro           |Contras
 ------------ | ------------- |-----
 Pseudocodigo  | - Ocupa menos espacio en una hoja de papel.|<p>- Permite representar en forma fácil operaciones repetitivas complejas.<p/> - Es muy fácil pasar de Pseudocódigo a un programa en algún lenguaje de programación.<p/> - Si se siguen las reglas se puede observar claramente los niveles que tiene cada operación.|- Cada persona maneja su pseudocódigo.<p/> - No vez exactamente como es la sintaxis de alguna linea. <p/>- Talvez no entiendas la notación de la persona que lo explica.<p/>- Es posible que un programador no pueda ver la lógica detrás de lo que alguien más ha escrito y rechazarlo. 
 Diagrama de Flujo  | - Favorecen la comprensión del proceso a través de mostrarlo como un dibujo<p/> - Permiten identificar los problemas y las oportunidades de mejora del proceso.<p/>|- Diagramas complejos y detallados suelen ser laboriosos en su planteamiento y diseño<p/>-Es el más ineficiente de todos los métodos. <p/>- No existen normas fijas para la elaboración de los diagramas de flujo que permitan incluir todos los detalles que el usuario desee introducir.<p/>- No se elaboran con base en los principios de la programación estructurada, ilustran el flujo del programa, pero no su estructura.<p/> - Requiere de un espacio considerable y cuenta con demasiadas ramificaciones
